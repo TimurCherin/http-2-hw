@@ -49,7 +49,7 @@ class GifSearch extends Component {
             <SearchContainer>
                 <SearchInput
                     type="text"
-                    placeholder="Enter a keyword"
+                    placeholder="Search somethink"
                     value={this.state.keyword}
                     onChange={this.handleChange}
                 />
